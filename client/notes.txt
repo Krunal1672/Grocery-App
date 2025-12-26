@@ -1,0 +1,15 @@
+=> web site name---
+    -https://tailwindcss.com/docs/installation/using-vite
+    -https://fonts.google.com/selection/embed
+    -https://prebuiltui.com/components/navbar
+
+
+
+
+=> pakege install---
+   - npm install react-router-dom 
+   - npm install react-hot-toast
+   - npm install tailwindcss
+   - npm install axois
+
+
