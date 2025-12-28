@@ -107,7 +107,6 @@ const AppContextProvider = ({ children })=>{
     useEffect(()=>{
         fetchProducts();
         fetchUser();
-        fetchSeller();
     },[])
    // update database cart items
   useEffect(() => {

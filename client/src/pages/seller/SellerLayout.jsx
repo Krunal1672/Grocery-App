@@ -19,7 +19,7 @@ const SellerLayout  = () => {
                   <p>Hi! Admin</p>
                   <button 
                      onClick={()=>{
-                      setIsSeller(true)
+                      setIsSeller(false)
                       navigate("/")
                      }}
                      className='border rounded-full text-sm px-4 py-1 cursor-pointer'>Logout</button>
